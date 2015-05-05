@@ -2,5 +2,6 @@
 recursive-include docs *.rst
 recursive-include relengapi *.html *.jpg *.css *.js *.txt
 include LICENSE.txt
+include contribute.json
 include README.md
 prune docs_build_dir
